@@ -1,1 +1,1 @@
-Este es un repositorio de prueba creado para github, agreando mas cosas
+Repositorio creado para trabajar y practicar para el curso de SoyHenry 
